@@ -1,4 +1,4 @@
-Customer Segmentation
+# Customer Segmentation
 
 This notebook analyzing the content of a Mall customer's database. 
 Based on this analysis, We will cluster the segment for customer.
